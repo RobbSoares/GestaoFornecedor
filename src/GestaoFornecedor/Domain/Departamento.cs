@@ -1,4 +1,4 @@
-﻿namespace GestaoFornecedor.Classes
+﻿namespace GestaoFornecedor.Domain
 {
     public class Departamento
     {
